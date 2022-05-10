@@ -1,4 +1,4 @@
-# Data-WranglingFinalProject
+# Spotify Song Reviews and Artist Measures
 Data Wrangling final project in collaboration with Sarah Phillips, Davy Counsell, and Lizzy Li.
 
 
